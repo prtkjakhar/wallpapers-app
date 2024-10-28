@@ -1,6 +1,10 @@
-# Welcome to your Expo app 👋
+# Wallpapers App
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/91bd075a-e0dc-4cfb-9633-c5ed774702f9)
+
 
 ## Get started
 
